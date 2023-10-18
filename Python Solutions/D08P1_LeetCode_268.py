@@ -10,4 +10,4 @@ class Solution:
           real_sum += i + 1
           missing_sum += num
       
-      return real_sum - missing_sum
+      return real_sum - missing_su
